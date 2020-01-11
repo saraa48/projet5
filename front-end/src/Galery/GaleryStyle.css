@@ -1,0 +1,70 @@
+.galery{
+    display: flex;
+    justify-content: space-around;
+
+ 
+}
+.Our-galery{
+    position: relative;
+        overflow: hidden;
+        background: white;
+        font-style: italic;
+        height: 373px;
+
+}
+.team{
+    width: 551px;
+    margin-top: 180px;
+}
+h2{
+    color: black;
+    font-weight: bold;
+
+}
+.vidéo{
+    width: 100%;
+    height: 380px;
+}
+h4{
+    color: gray;
+    text-align: center;
+}
+h2:hover{
+    color: chocolate;
+    cursor: pointer;
+}
+
+
+.image-hamberger{
+    position: absolute;
+    bottom: -426px;
+    right: -866px;
+    border-radius: 10px;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    text-align: center;
+}
+.group-botton{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+h1{
+    color:black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.plat{
+    width: 373px;
+    border-radius: 7px;
+margin-top: 20px;
+
+
+}
+.button{
+    margin-top: 10px;
+    width: 125px;
+}

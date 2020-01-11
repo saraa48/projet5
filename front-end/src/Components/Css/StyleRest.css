@@ -1,0 +1,20 @@
+.CardRestau{
+    display: flex;
+}
+.nos-restaux{
+    width: 356px;
+    border-radius: 9%
+}
+.Button{
+    width: 167px;
+  
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 20px;
+    margin-left: 64px;
+    
+    background-color: #E75B1E;
+    margin-top: 48px;
+}
+.angle{
+    font-size: 69px;
+  }

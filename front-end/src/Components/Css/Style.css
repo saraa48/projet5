@@ -1,0 +1,45 @@
+.image-Menu{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    transition: all 0,4s ease-in-out;
+   
+   /* background-image: url("https://images.unsplash.com/photo-1495195134817-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80");
+   background-repeat: no-repeat */
+}
+.our-Menu:hover{
+  box-shadow: -1px 3px 10px 5px rgba(0,0,0,75);
+  cursor: pointer;
+  background-size: cover;
+  border: none;
+}
+.nos-plats{
+    width: 136px;
+    border-radius: 50%;
+    box-shadow: -2px 8px 10px
+}
+
+.our-Menu{
+  width: 363px;
+  height: 387px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    text-align: center;
+  }
+  h1{
+      color: #E75B1E;
+      text-align: center;
+    font-family: "Times New Roman", Times, serif;  
+  }
+  .modifier{
+   margin-left: 50px;
+  }
+  .addButton{
+    margin-left:400px;
+    margin-top: 90px;
+  }

@@ -1,0 +1,5 @@
+.cards-Menu{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
