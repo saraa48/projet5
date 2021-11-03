@@ -25,6 +25,6 @@
     "react-fontawesome": "^1.7.1",
     "react-router-dom": "^5.1.2",
     "reactstrap": "^8.2.0",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
