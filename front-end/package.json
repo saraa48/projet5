@@ -11,7 +11,7 @@
     "reactstrap": "^8.2.0",
     "classnames": "^2.2.6",
     "gravatar": "^1.8.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.1",
     "react-bootstrap": "^1.0.0-beta.6",
     "react-bootstrap-star-rating": "^3.5.5-alpha.0.3",
